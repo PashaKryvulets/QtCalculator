@@ -64,5 +64,5 @@ QtCalculator is released under the [MIT License](LICENSE).
 
 
 ## Acknowledgments
-- Thank you to the Qt framework community for providing a powerful toolkit for C++ development.
+- Thank you to the Qt framework community for providing a powerful toolkit for C++ development!
 - Icon used in this project are sourced from [Iconfinder](https://en.m.wikipedia.org/wiki/File:GNOME_Calculator_icon_2021.svg).
