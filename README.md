@@ -8,6 +8,10 @@ QtCalculator is a simple calculator application developed using C++ and the Qt f
 
 - **User-Friendly Interface:** QtCalculator has a pleasant and intuitive user interface.
 
+## Screenshot
+
+![QtCalculator Screenshot](QtCalculator screenshot.png)
+
 ## Build Instructions
 
 Follow these steps to build and run QtCalculator on your system:
@@ -36,10 +40,13 @@ Follow these steps to build and run QtCalculator on your system:
 Enter numbers and use the on-screen buttons to perform calculations.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to QtCalculator, please fork the repository and create a pull request with your changes.
+
+If you'd like to contribute to QtCalculator, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/PashaKryvulets/QtCalculator).
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+MatrixHelper is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
-Thank you to the Qt framework community for providing a powerful toolkit for C++ development.
+- Thank you to the Qt framework community for providing a powerful toolkit for C++ development.
+- Icons used in this project are sourced from [Iconfinder](https://en.m.wikipedia.org/wiki/File:GNOME_Calculator_icon_2021.svg).
