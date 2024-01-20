@@ -45,7 +45,7 @@ If you'd like to contribute to QtCalculator, feel free to open an issue or submi
 
 ## License
 
-MatrixHelper is released under the [MIT License](LICENSE).
+QtCalculator is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - Thank you to the Qt framework community for providing a powerful toolkit for C++ development.
