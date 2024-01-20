@@ -1,0 +1,14 @@
+# Qt-specific
+build/
+*.pro.user
+*.pro.user.*
+
+# Temporary files
+*.o
+*.pro.user
+*.pro.user.*
+*.moc
+Makefile
+Makefile.*
+*.qmlc
+*.qmlproject.user
