@@ -1,16 +1,16 @@
-# QtCalculator
+# **QtCalculator Application**
 
-QtCalculator is a simple calculator application developed using C++ and the Qt framework. It allows users to perform basic mathematical operations in a user-friendly interface.
+I am the developer of the "QtCalculator" application, a calculator tool built using the Qt framework. Below are some key aspects of the development process:
 
 
-## Features
+## **Features**
 
 - **Basic Operations:** QtCalculator supports fundamental arithmetic operations such as addition, subtraction, multiplication, and division.
 
 - **User-Friendly Interface:** QtCalculator has a pleasant and intuitive user interface.
 
 
-## Interface
+## **Interface**
 
 ![QtCalculator Screenshot](QtCalculatorscreenshot.png)
 
@@ -39,11 +39,11 @@ Follow these steps to build and run QtCalculator on your system:
    ```
 
 
-## Usage
+## **Usage**
 Enter numbers and use the on-screen buttons to perform calculations.
 
 
-## Requirements
+## **Requirements**
 Make sure you have [QtCreator](https://www.qt.io/download) and [C++ compiler](https://isocpp.org/get-started).
 
 **This project was tested in the environments listed below:**
@@ -53,16 +53,16 @@ Make sure you have [QtCreator](https://www.qt.io/download) and [C++ compiler](ht
 - Qt 5.15.12 (static)
 
 
-## Contributing
+## **Contributing**
 
 If you'd like to contribute to QtCalculator, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/PashaKryvulets/QtCalculator).
 
 
-## License
+## **License**
 
 QtCalculator is released under the [MIT License](LICENSE).
 
 
-## Acknowledgments
+## **Acknowledgments**
 - Thank you to the Qt framework community for providing a powerful toolkit for C++ development!
 - Icon used in this project are sourced from [Iconfinder](https://en.m.wikipedia.org/wiki/File:GNOME_Calculator_icon_2021.svg).
