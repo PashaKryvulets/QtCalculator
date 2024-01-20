@@ -18,13 +18,11 @@ Follow these steps to build and run QtCalculator on your system:
    
 # Clone the Repository
 
-    ```bash
     git clone https://github.com/PashaKryvulets/QtCalculator
     cd QtCalculator
 
 # Build the Project
 
-    ```bash
     mkdir build
     cd build
     qmake ..
@@ -32,17 +30,16 @@ Follow these steps to build and run QtCalculator on your system:
 
 # Run the Calculator
 
-    ```bash
     ./QtCalculator
 
-##Usage
+## Usage
 Enter numbers and use the on-screen buttons to perform calculations.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to QtCalculator, please fork the repository and create a pull request with your changes.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 Thank you to the Qt framework community for providing a powerful toolkit for C++ development.
