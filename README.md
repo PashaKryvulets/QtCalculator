@@ -47,7 +47,7 @@ This project was tested in the environments listed below:
 - GCC 6.3.0
 - Qt 5.15.12 (static)
 
-If you have any issues with the library building, let me know please.
+If you have any issues with building, let me know please.
 
 ## Contributing
 
