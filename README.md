@@ -2,7 +2,7 @@
 
 QtCalculator is a simple calculator application developed using C++ and the Qt framework. It allows users to perform basic mathematical operations in a user-friendly interface.
 
-## Screenshot
+## Interface
 
 ![QtCalculator Screenshot](QtCalculatorscreenshot.png)
 
