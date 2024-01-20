@@ -16,28 +16,38 @@ QtCalculator is a simple calculator application developed using C++ and the Qt f
 
 Follow these steps to build and run QtCalculator on your system:
 
-1. **Prerequisites:** Ensure you have QtCreator and a C++ compiler installed on your system.
-
-2. **Clone the Repository:**
-   
-# Clone the Repository
-
+1. **Clone the Repository:**
+   ```bash
     git clone https://github.com/PashaKryvulets/QtCalculator
     cd QtCalculator
+   ```
 
-# Build the Project
-
+2. **Build the Project**
+   ```bash
     mkdir build
     cd build
     qmake ..
     make
+   ```
 
-# Run the Calculator
-
+3. **Run the Calculator**
+   ```bash
     ./QtCalculator
+   ```
 
 ## Usage
 Enter numbers and use the on-screen buttons to perform calculations.
+
+## Requirements
+Make sure you have QtCreator and C++ compiler.
+
+This project was tested in the environments listed below:
+
+- MinGW64 (MSYS2 project)
+- GCC 6.3.0
+- Qt 5.15.12 (static)
+
+If you have any issues with the library building, let me know please.
 
 ## Contributing
 
