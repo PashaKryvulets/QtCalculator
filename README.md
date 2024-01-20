@@ -1,6 +1,6 @@
 # **QtCalculator Application**
 
-I am the developer of the "QtCalculator" application, a calculator tool built using the Qt framework. Below are some key aspects of the development process:
+I am the developer of the "QtCalculator" application, a calculator tool built using the [Qt framework](https://www.qt.io). Below are some key aspects of the development process:
 
 
 ## **Features**
