@@ -46,9 +46,9 @@ Enter numbers and use the on-screen buttons to perform calculations.
 ## Requirements
 Make sure you have [QtCreator](https://www.qt.io/download) and [C++ compiler](https://isocpp.org/get-started).
 ```sh
-This project was tested in the environments listed below:
+**This project was tested in the environments listed below:**
 
-- MinGW64 (MSYS2 project)
+- MinGW64 ([MSYS2 project](https://www.msys2.org))
 - GCC 6.3.0
 - Qt 5.15.12 (static)
 ```
