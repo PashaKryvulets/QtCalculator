@@ -39,16 +39,16 @@ Follow these steps to build and run QtCalculator on your system:
 Enter numbers and use the on-screen buttons to perform calculations.
 
 ## Requirements
-Make sure you have QtCreator and C++ compiler.
+**Make sure you have QtCreator and C++ compiler.**
 
 This project was tested in the environments listed below:
 
 - MinGW64 (MSYS2 project)
 - GCC 6.3.0
 - Qt 5.15.12 (static)
-
+```bash
 If you have any issues with building, let me know please.
-
+```
 ## Contributing
 
 If you'd like to contribute to QtCalculator, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/PashaKryvulets/QtCalculator).
